@@ -1,1 +1,1 @@
-# orleans-sandbox
+# Demo IoT application
